@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "517402029210",
+    "firebase_url": "https://fcmpushdemo-92a45.firebaseio.com",
+    "project_id": "fcmpushdemo-92a45",
+    "storage_bucket": "fcmpushdemo-92a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517402029210:android:7edbcfe2d2b50bfb",
+        "android_client_info": {
+          "package_name": "com.devang.fcmpushdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517402029210-2usrp37oj4egjps0tdsdlske2tkqudpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5cJg4donlxZB591f-DI4ufzIlaqO9EE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
